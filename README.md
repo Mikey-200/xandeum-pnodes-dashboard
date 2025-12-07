@@ -9,9 +9,6 @@ Live analytics dashboard for Xandeum storage provider nodes (pNodes).
 - Fully responsive + dark mode
 - Deployed on Vercel
 
-## Live Demo
-https://your-app.vercel.app
-
 ## Tech Stack
 Next.js 14 • TypeScript • Tailwind • TanStack Table • TanStack Query
 
